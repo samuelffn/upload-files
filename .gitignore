@@ -1,0 +1,5 @@
+# Na linha 2: O /* deve ignorar somente o conteúdo da pasta upload
+uploads/*
+node_modules/
+.env
+*.zip
