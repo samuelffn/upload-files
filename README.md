@@ -12,6 +12,9 @@ npm install multer
 ou  
 npm install express multer  
   
+### Antes de executar o projeto após fazer o pull inicial  
+Baixar todas as dependências: **npm i**  
+  
 ### Executando o projeto  
 node index.js  
 Para parar: Ctrl+C  
